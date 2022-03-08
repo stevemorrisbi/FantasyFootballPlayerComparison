@@ -1,5 +1,7 @@
 # Fantasy Football Dashboard
-### Overview: This dashboard was designed in Power BI to be able to compare the important metrics when it comes to making selections for a fantasy football team. 
+### Overview: Interactive Fantasty Football player comparison tool.
+
+This dashboard was designed in Power BI to be able to compare the important metrics when it comes to making selections for a fantasy football team. 
 
 To meet the brief of creating an interactive one page design, certain metrics of data had to be excluded in order for efficient functionality.
 
