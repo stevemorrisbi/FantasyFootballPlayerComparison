@@ -7,6 +7,7 @@ To meet the brief of creating an interactive one page design, certain metrics ha
 
 DAX was incoporated in ensure that if any player is selected, they are then removed from the associated collumn. 
 
-To further this project the KPI's that had to be left out could be utilised in devloping this dashboard into a multi-page design. 
+To further this project the KPI's that had to be left out could be utilised in devloping this dashboard into a multi-page design.
 
-![fantasyfootball1](https://user-images.githubusercontent.com/99413257/157259934-92b0a34f-467e-478a-8e8f-590d4ccc8785.jpg)
+![ffdashboard](https://user-images.githubusercontent.com/99413257/157912067-e400c028-8737-4065-b060-1c98ab47bab3.gif)
+
