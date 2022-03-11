@@ -9,5 +9,7 @@ DAX was incoporated in ensure that if any player is selected, they are then remo
 
 To further this project - the KPI's that had to be left out could be utilised in developing this dashboard into a multi-page design.
 
+----
+
 ![ffdashboard](https://user-images.githubusercontent.com/99413257/157912067-e400c028-8737-4065-b060-1c98ab47bab3.gif)
 
