@@ -5,7 +5,7 @@ This dashboard was designed in Power BI to be able to compare the important data
 
 To meet the brief of creating an interactive one page design, certain metrics had to be excluded in order for efficient functionality.
 
-DAX was incoporated in ensure that if any player is selected, they are then removed from the associated collumn. 
+DAX was incoporated in ensure that if any player is selected, they are then removed from the associated column. 
 
 To further this project - the KPI's that had to be left out could be utilised in developing this dashboard into a multi-page design.
 
